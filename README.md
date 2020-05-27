@@ -1,2 +1,2 @@
 # kerala_gov_hdi_comparison
-Comparing HDI increase in kerala gov.
+R Code for Comparing HDI increase of kerala gov. over the time.
